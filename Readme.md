@@ -1,5 +1,6 @@
-vamos al repositorio y le damos a la opcion fork y le ponemos un nombre
-luego copiamos la url de code y en la konsola ponemos git clone con la url
-entramos con cd
-cambiamos el readme con intelliji
-y hacemos un commit push
+1. Vamos al repositorio y le damos a la opción **Fork** y le ponemos un nombre.
+2. Luego copiamos la URL de **Code**.
+3. En la consola ponemos `git clone` con la URL.
+4. Entramos con `cd`.
+5. Cambiamos el `README` con IntelliJ.
+6. Hacemos un **commit** y **push**.
